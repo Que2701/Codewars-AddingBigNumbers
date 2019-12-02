@@ -1,0 +1,7 @@
+D:\Source\Repos\Projects\Codewars\Codewars-AddingBigNumbers\AddingBigNumbers\AddingBigNumbersApp\bin\Debug\AddingBigNumbersApp.exe.config
+D:\Source\Repos\Projects\Codewars\Codewars-AddingBigNumbers\AddingBigNumbers\AddingBigNumbersApp\bin\Debug\AddingBigNumbersApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-AddingBigNumbers\AddingBigNumbers\AddingBigNumbersApp\bin\Debug\AddingBigNumbersApp.pdb
+D:\Source\Repos\Projects\Codewars\Codewars-AddingBigNumbers\AddingBigNumbers\AddingBigNumbersApp\obj\Debug\AddingBigNumbersApp.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\Codewars-AddingBigNumbers\AddingBigNumbers\AddingBigNumbersApp\obj\Debug\AddingBigNumbersApp.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\Codewars-AddingBigNumbers\AddingBigNumbers\AddingBigNumbersApp\obj\Debug\AddingBigNumbersApp.exe
+D:\Source\Repos\Projects\Codewars\Codewars-AddingBigNumbers\AddingBigNumbers\AddingBigNumbersApp\obj\Debug\AddingBigNumbersApp.pdb
